@@ -9,3 +9,5 @@ Average Execution Time:
 -MPI(20 threads): 3s
 -THREADS(20 threads): 3s
 -Sequential: 3.5s
+![INPUT](APD_PROJECT_MPI/input.jpg)
+![OUTPUT](APD_PROJECT_MPI/inverted_image.jpg)
