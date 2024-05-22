@@ -5,10 +5,14 @@ Project Requirements/Theme: The project involves developing a mini-application t
 Machine Information: Processor: 12th Gen Intel(R) Core(TM) i7-12700H @ 2.30 GHz Installed RAM: 16.0 GB (15.7 GB usable) System Type: Windows 11 64-bit operating system, x64-based processor
 
 Experimental Results: 
-Average Execution Time: 
--MPI(20 threads): 3s
--THREADS(20 threads): 3s
--Sequential: 3.5s
+Average Execution Time (MPI & THREADS ON 20 THREADS)
+
+| MPI | THREADS | SEQUENTIAL |
+| --- | ------- | ---------- |
+| 3s  | 3s      | 3.5s       |
+
 
 ![INPUT](APD_PROJECT_MPI/input.jpg)
 ![OUTPUT](APD_PROJECT_MPI/inverted_image.jpg)
+
+
